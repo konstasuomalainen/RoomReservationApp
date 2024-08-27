@@ -1,0 +1,29 @@
+/* CSS for background image transitions */
+.background-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1; /* Ensure the background is behind other content */
+}
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: opacity 1s ease-in-out;
+}
+
+.background-image.fade-in {
+  opacity: 1;
+}
+
+.background-image.fade-out {
+  opacity: 0;
+}
