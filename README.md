@@ -23,10 +23,6 @@ RoomReservationApp is a streamlined application designed for making quick room r
 - Invalid Time Selection.
 - Data Validation.
 
-## Deployment
-
-- The app is deployed on Firebase Cloud, making it easily accessible on the internet. You can access the application directly via this URL: [https://react-c1aa9.web.app/](https://react-c1aa9.web.app/).
-
 ## Technologies Used
 
 - **Frontend**: Developed using React to ensure compatibility with older devices while maintaining a smooth user experience.
