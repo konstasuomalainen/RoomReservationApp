@@ -1,11 +1,10 @@
 # RoomReservationApp
 
-![kuva](https://github.com/user-attachments/assets/82227191-e0b7-4b5d-8739-b481a4b7bfad)
-
-
 ## Overview
 
 RoomReservationApp is a streamlined application designed for making quick room reservations, tailored specifically for smaller rooms in the campus area. The app features a user-friendly interface, optimized for tablet use, and allows users to quickly reserve rooms, view reservation schedules, and select specific time slots for reservations. The application is hosted on Firebase Cloud and is accessible via the following URL: [RoomReservationApp](https://react-c1aa9.web.app/).
+
+![kuva](https://github.com/user-attachments/assets/82227191-e0b7-4b5d-8739-b481a4b7bfad)
 
 ## Features
 
